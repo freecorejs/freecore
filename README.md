@@ -1,2 +1,2 @@
 # freecore
-A Javascript library that supports efficient and modular single page application development, with any server stack.
+A JavaScript library for building single page applications, with any server stack.
